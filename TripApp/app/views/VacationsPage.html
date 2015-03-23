@@ -1,0 +1,25 @@
+﻿
+    <div>
+        <h1>My Vacations</h1>
+    </div>
+    <div class="container" id="vacationslist" ng-init="loadVacation()">
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>My Vacations</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr ng-repeat="vacation in vacationList">
+                <td>{{vacation.name}}</td>
+                <td>{{vacation.DestinationName}}</td>
+                <td>{{vacation.DateStarted}}</td>
+                <td>{{vacation.DateCreated}}</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

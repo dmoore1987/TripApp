@@ -1,0 +1,14 @@
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\TripApp.Data.Models.dll.config
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\TripApp.Data.Models.dll
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\TripApp.Data.Models.pdb
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.dll
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.xml
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\obj\Debug\TripApp.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\obj\Debug\TripApp.Data.Models.dll
+C:\Users\david_000\Desktop\TripApp\TripApp.Data.Models\obj\Debug\TripApp.Data.Models.pdb
